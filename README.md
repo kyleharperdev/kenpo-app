@@ -25,7 +25,7 @@ Data will be persisted with `localStorage` rather than a backend — enough to m
 ## Roadmap
 
 - [x] Project scaffold — Vite, folder structure, routing, TypeScript types
-- [ ] Auth + localStorage foundation
+- [x] Auth + localStorage foundation
 - [ ] Dashboard skeleton
 - [ ] Dual timer (focus + break, cumulative tracking, completion sound)
 - [ ] Connect timer data to the dashboard stats
